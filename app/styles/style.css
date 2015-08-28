@@ -1,0 +1,50 @@
+body>section>header{
+    background-color: #ecb13a;
+    padding: 5px 0;
+}
+#banner{
+    background-color: white;
+    padding: 20px 0;
+}
+#patica{
+    width: 200px;
+    height: 68px;
+    background: url("../res/icon.png");
+}
+nav{
+    background-color: #484546;
+    border: 1px solid #686666;
+    position: relative;
+    top: 10px;
+}
+nav a{
+    color: white
+}
+nav div{
+    float:left;
+}
+div.navItem{
+    padding: 10px;
+    display: inline-block;
+}
+div.sep{
+    display: inline-block;
+    height: 40px;
+    width: 2px;
+    border-left:1px solid #737373;
+    border-right:1px solid #2a2526;
+}
+
+#content_banner{
+    background-color: #000;
+    height: 500px;
+}
+#content{
+    height: 500px;
+    background: url("../res/bg.png") no-repeat center center #e7eaee;
+    padding: 50px 0;
+}
+#aboutMe{
+    background-color: transparent;
+    height: 100px;
+}
