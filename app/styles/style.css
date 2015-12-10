@@ -251,17 +251,17 @@ ul.activity .i4 div{
     background:url("../res/icon.jpg");
 }
 
-body>section>footer{
+.footer{
     background-color: black;
 }
-body>section>footer div.body{
+.footer div.body{
     padding-top: 20px;
 }
 
-body>section>footer .title{
+.footer .title{
     border-bottom: 1px solid #5d5e61;
 }
-body>section>footer .title>div{
+.footer .title>div{
     width: 200px;
     height: 48px;
     margin: 0 auto;
