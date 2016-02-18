@@ -3,7 +3,7 @@
 }
 body{
     min-width:1650px;
-    font-family: "Microsoft YaHei","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: "Microsoft YaHei","Helvetica Neue",Helvetica,Arial,sans-serif;    
 }
 body>section>header{
     background-color: #ecb13a;
@@ -67,7 +67,7 @@ div.sep{
     height: 220px;
 }
 #aboutMe div.imgArea{
-    float: left;   
+    float: left;
     width: 380px;
     border: 5px solid white;
     background-color: #e5e5e5;
@@ -203,7 +203,7 @@ div.title{
     font-size: 17px;
     font-weight: 800;
 }
- 
+
 #fixPhone article ul.activity{
     background-color: #fff;
     padding: 10px;
@@ -211,8 +211,8 @@ div.title{
 #fixPhone article ul.activity li{
     float: left;
     list-style: none;
-    display: inline-block;    
-    margin: 10px;    
+    display: inline-block;
+    margin: 10px;
     cursor: default;
     text-align: center;
 }
@@ -224,7 +224,7 @@ div.title{
 }
 #fixPhone article ul.activity li>span{
     line-height: 30px;
-    font-size: 20px;    
+    font-size: 20px;
     display: inline-block;
     margin-top: 10px;
 }
@@ -319,7 +319,7 @@ div.line{
     height: 71px;
 }
 #process .content{
-    margin-top:20px; 
+    margin-top:20px;
 }
 #process .content ul{
     margin: 0;
@@ -328,8 +328,8 @@ div.line{
 #process .content li{
     float: left;
     list-style: none;
-    display: inline-block;    
-    margin-right: 10px;    
+    display: inline-block;
+    margin-right: 10px;
     width: 100px;
     cursor: default;
     text-align: center;
@@ -337,7 +337,7 @@ div.line{
     background-color: #eeeeee;
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
-}   
+}
 #process .content li:hover,#process .content li.active{
     color: white;
     background-color: #e9a211;
